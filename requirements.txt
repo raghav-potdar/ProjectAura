@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]  # The server to run FastAPI
+pydantic
+python-dotenv      # For API keys
+python-multipart   # For file uploads
+google-generativeai # The Python SDK for Gemini
+PyMuPDF            # An excellent, fast PDF parser
+fitz

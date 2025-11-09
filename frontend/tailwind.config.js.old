@@ -1,0 +1,13 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  theme: {
+    extend: {
+      colors: { black: '#000', white: '#fff', gray: '#f0f0f0' },
+      backgroundImage: {
+        floral: 'linear-gradient(135deg, #f0f0f0 0%, #ffffff 100%)',
+      },
+    },
+  },
+  plugins: [],
+};

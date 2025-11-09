@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]  # The server to run FastAPI
+pydantic
+python-multipart
+python-dotenv
+pymupdf
+python-docx
+google-generativeai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pytz

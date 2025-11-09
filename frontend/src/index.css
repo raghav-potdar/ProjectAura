@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray: #f0f0f0;
+  
+  --background-floral: linear-gradient(135deg, #f0f0f0 0%, #ffffff 100%);
+}
